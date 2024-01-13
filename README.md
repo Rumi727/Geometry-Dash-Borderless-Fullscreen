@@ -1,3 +1,5 @@
+**인게임에 기능이 추가됨에 따라 쓸모 없어졌습니다**
+
 # Geometry Dash Borderless Fullscreen
 
 WinAPI를 사용하여 지메를 테두리 없는 전체화면으로 만들어주는 2% 부족한 프로그램입니다.
